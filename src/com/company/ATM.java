@@ -22,7 +22,7 @@ public class ATM {
                if (answer.equalsIgnoreCase("y")) {
                    accounts.put(hustler.name, hustler.balance);
                } else {
-                   hustler.chooseName();
+                   continue;
                }
            }
            else {
