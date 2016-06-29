@@ -41,7 +41,7 @@ public class ATM {
                    accounts.remove(hustler.name);
                    break;
                    //remove method to remove info from accounts hashmap. why only name
-               }                                     //and not balance and also break out
+               }                                     // break out
            }
        }
 
